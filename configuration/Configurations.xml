@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurations>
+    <configuration name="Canto">
+        <description>BD Canto 8 colors</description>
+        <detectorConjugatesList>
+            <detectorConjugates>
+                <detectorName>1</detectorName>
+                <conjugateName>1</conjugateName>
+                <names>
+                    <name>Alexa Fluor 488</name>
+                    <name>FITC</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>2</detectorName>
+                <conjugateName>2</conjugateName>
+                <names>
+                    <name>APC</name>
+                    <name>Alexa Fluor 647</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>3</detectorName>
+                <conjugateName>3</conjugateName>
+                <names>
+                    <name>Alexa Fluor 700</name>
+                    <name>APC-H7</name>
+                    <name>APC-Cy7</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>4</detectorName>
+                <conjugateName>4</conjugateName>
+                <names>
+                    <name>Pacific Blue</name>
+                    <name>BV421</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>5</detectorName>
+                <conjugateName>5</conjugateName>
+                <names>
+                    <name>Purified</name>
+                    <name>V500</name>
+                    <name>BV510</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>6</detectorName>
+                <conjugateName>6</conjugateName>
+                <names>
+                    <name>BV605</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>7</detectorName>
+                <conjugateName>7</conjugateName>
+                <names>
+                    <name>BV650</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>8</detectorName>
+                <conjugateName>8</conjugateName>
+                <names>
+                    <name>BV711</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>9</detectorName>
+                <conjugateName>9</conjugateName>
+                <names>
+                    <name>BV786</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>10</detectorName>
+                <conjugateName>10</conjugateName>
+                <names>
+                    <name>V450</name>
+                    <name>PE</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>11</detectorName>
+                <conjugateName>11</conjugateName>
+                <names>
+                    <name>PerCP-Cy5.5</name>
+                    <name>PE-CF594</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>12</detectorName>
+                <conjugateName>12</conjugateName>
+                <names>
+                    <name>PE-Cy5</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>13</detectorName>
+                <conjugateName>13</conjugateName>
+                <names>
+                    <name>PE-Cy7</name>
+                </names>
+            </detectorConjugates>
+            <detectorConjugates>
+                <detectorName>14</detectorName>
+                <conjugateName>14</conjugateName>
+                <names>
+                    <name>Pe-Dazzle594</name>
+                    <name>PerCP-eFluor 710</name>
+                </names>
+            </detectorConjugates>
+        </detectorConjugatesList>
+        <brightnessIndices>
+            <brightnessIndex conjugateName="FITC" brightness="3.0"/>
+            <brightnessIndex conjugateName="APC-Cy7" brightness="7.0"/>
+            <brightnessIndex conjugateName="APC-H7" brightness="2.0"/>
+            <brightnessIndex conjugateName="BV421" brightness="8.0"/>
+            <brightnessIndex conjugateName="Pacific Blue" brightness="6.0"/>
+            <brightnessIndex conjugateName="BV510" brightness="5.0"/>
+            <brightnessIndex conjugateName="BV605" brightness="4.0"/>
+            <brightnessIndex conjugateName="BV650" brightness="7.0"/>
+            <brightnessIndex conjugateName="BV711" brightness="2.0"/>
+            <brightnessIndex conjugateName="BV786" brightness="8.0"/>
+            <brightnessIndex conjugateName="PE" brightness="5.0"/>
+            <brightnessIndex conjugateName="PE-CF594" brightness="5.0"/>
+            <brightnessIndex conjugateName="PE-Cy5" brightness="9.0"/>
+            <brightnessIndex conjugateName="PE-Cy7" brightness="8.0"/>
+            <brightnessIndex conjugateName="PerCP-Cy5.5" brightness="5.0"/>
+            <brightnessIndex conjugateName="APC" brightness="5.0"/>
+            <brightnessIndex conjugateName="Alexa Fluor 700" brightness="9.0"/>
+            <brightnessIndex conjugateName="Alexa Fluor 488" brightness="7.0"/>
+            <brightnessIndex conjugateName="Alexa Fluor 647" brightness="5.0"/>
+            <brightnessIndex conjugateName="Purified" brightness="3.0"/>
+            <brightnessIndex conjugateName="V500" brightness="5.0"/>
+            <brightnessIndex conjugateName="V450" brightness="6.0"/>
+            <brightnessIndex conjugateName="PerCP-eFluor 710" brightness="2.0"/>
+            <brightnessIndex conjugateName="Pe-Dazzle594" brightness="7.0"/>
+        </brightnessIndices>
+    </configuration>
+</configurations>

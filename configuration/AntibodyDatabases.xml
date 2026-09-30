@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<antibodydatabases>
+    <antibodies name="FortessaAB">
+        <antibodiesList>
+            <antibody conjugateName="BV421" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat1" lotNum="lot1" clone="clone1" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat2" lotNum="lot2" clone="clone2" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat3" lotNum="lot3" clone="clone3" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV570" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat4" lotNum="lot4" clone="clone4" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat5" lotNum="lot5" clone="clone5" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat6" lotNum="lot6" clone="clone6" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat7" lotNum="lot7" clone="clone7" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat8" lotNum="lot8" clone="clone8" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat9" lotNum="lot9" clone="clone9" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat10" lotNum="lot10" clone="clone10" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat11" lotNum="lot11" clone="clone11" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat12" lotNum="lot12" clone="clone12" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat13" lotNum="lot13" clone="clone13" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat14" lotNum="lot14" clone="clone14" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat15" lotNum="lot15" clone="clone15" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat16" lotNum="lot16" clone="clone16" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat17" lotNum="lot17" clone="clone17" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat18" lotNum="lot18" clone="clone18" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat19" lotNum="lot19" clone="clone19" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone20" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone21" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV450" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone22" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone23" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Orange" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone24" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat21" lotNum="lot21" clone="clone21" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat22" lotNum="lot22" clone="clone22" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat23" lotNum="lot23" clone="clone23" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat24" lotNum="lot24" clone="clone24" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat25" lotNum="lot25" clone="clone25" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat26" lotNum="lot26" clone="clone26" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat27" lotNum="lot27" clone="clone27" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat28" lotNum="lot28" clone="clone28" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat28" lotNum="lot28" clone="clone28" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat29" lotNum="lot29" clone="clone29" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat30" lotNum="lot30" clone="clone30" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat31" lotNum="lot31" clone="clone31" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat32" lotNum="lot32" clone="clone32" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat33" lotNum="lot33" clone="clone33" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat34" lotNum="lot34" clone="clone34" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat35" lotNum="lot35" clone="clone35" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat36" lotNum="lot36" clone="clone36" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat37" lotNum="lot37" clone="clone37" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat38" lotNum="lot38" clone="clone38" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat39" lotNum="lot39" clone="clone39" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat40" lotNum="lot40" clone="clone40" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat41" lotNum="lot41" clone="clone41" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat42" lotNum="lot42" clone="clone42" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV450" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat42" lotNum="lot43" clone="clone42" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat42" lotNum="lot42" clone="clone42" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD35" targetSpecies="Mouse" company="Biolegend" catalogNum="cat43" lotNum="lot43" clone="clone43" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD35" targetSpecies="Mouse" company="Biolegend" catalogNum="cat44" lotNum="lot44" clone="clone44" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="VEGFR-3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat45" lotNum="lot45" clone="clone45" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="VEGFR-3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat46" lotNum="lot46" clone="clone46" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="E-Cadherin" targetSpecies="Mouse" company="Biolegend" catalogNum="cat47" lotNum="lot47" clone="clone47" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="E-Cadherin" targetSpecies="Mouse" company="Biolegend" catalogNum="cat48" lotNum="lot48" clone="clone48" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="E-Cadherin" targetSpecies="Mouse" company="Biolegend" catalogNum="cat49" lotNum="lot49" clone="clone49" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat50" lotNum="lot50" clone="clone50" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat51" lotNum="lot51" clone="clone51" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat52" lotNum="lot52" clone="clone52" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat53" lotNum="lot53" clone="clone53" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat54" lotNum="lot54" clone="clone54" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat55" lotNum="lot55" clone="clone55" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat56" lotNum="lot56" clone="clone56" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat57" lotNum="lot57" clone="clone57" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat58" lotNum="lot58" clone="clone58" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat58" lotNum="lot58" clone="clone58" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat59" lotNum="lot59" clone="clone59" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat60" lotNum="lot60" clone="clone60" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat61" lotNum="lot61" clone="clone61" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat62" lotNum="lot62" clone="clone62" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat63" lotNum="lot63" clone="clone63" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat64" lotNum="lot64" clone="clone64" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat65" lotNum="lot65" clone="clone65" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat66" lotNum="lot66" clone="clone66" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat67" lotNum="lot67" clone="clone67" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat68" lotNum="lot68" clone="clone68" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat69" lotNum="lot69" clone="clone69" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat70" lotNum="lot70" clone="clone70" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat71" lotNum="lot71" clone="clone71" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat72" lotNum="lot72" clone="clone72" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat73" lotNum="lot73" clone="clone73" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat74" lotNum="lot74" clone="clone74" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat75" lotNum="lot75" clone="clone75" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat75" lotNum="lot75" clone="clone75" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat76" lotNum="lot76" clone="clone76" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat77" lotNum="lot77" clone="clone77" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat78" lotNum="lot78" clone="clone78" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat79" lotNum="lot79" clone="clone79" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat80" lotNum="lot80" clone="clone80" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 350" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat81" lotNum="lot81" clone="clone81" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat82" lotNum="lot82" clone="clone82" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CXCR7" targetSpecies="Mouse" company="Biolegend" catalogNum="cat83" lotNum="lot83" clone="clone83" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CXCR7" targetSpecies="Mouse" company="Biolegend" catalogNum="cat84" lotNum="lot84" clone="clone84" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CXCR7" targetSpecies="Mouse" company="Biolegend" catalogNum="cat85" lotNum="lot85" clone="clone85" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="B7-H4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat86" lotNum="lot86" clone="clone86" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="B7-H4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat87" lotNum="lot87" clone="clone87" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat88" lotNum="lot88" clone="clone88" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat89" lotNum="lot89" clone="clone89" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat90" lotNum="lot90" clone="clone90" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat91" lotNum="lot91" clone="clone91" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat92" lotNum="lot92" clone="clone92" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 555" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat93" lotNum="lot93" clone="clone93" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat93" lotNum="lot93" clone="clone93" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat94" lotNum="lot94" clone="clone94" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat95" lotNum="lot95" clone="clone95" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Oregon Green" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat96" lotNum="lot96" clone="clone96" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE-CF594" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat97" lotNum="lot97" clone="clone97" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat98" lotNum="lot98" clone="clone98" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat99" lotNum="lot99" clone="clone99" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/eFluor 710" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat100" lotNum="lot100" clone="clone100" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Cy5" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat101" lotNum="lot101" clone="clone101" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat102" lotNum="lot102" clone="clone102" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat103" lotNum="lot103" clone="clone103" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat104" lotNum="lot104" clone="clone104" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat105" lotNum="lot105" clone="clone105" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Alexa Fluor 750" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat106" lotNum="lot106" clone="clone106" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Cy7" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat107" lotNum="lot107" clone="clone107" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 350" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat108" lotNum="lot108" clone="clone108" isotype="IgG" aups="50"/>
+            <antibody conjugateName="DAPI" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat109" lotNum="lot109" clone="clone109" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 655" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat110" lotNum="lot110" clone="clone110" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 705" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat111" lotNum="lot111" clone="clone111" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat112" lotNum="lot112" clone="clone112" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV450" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat113" lotNum="lot113" clone="clone113" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat114" lotNum="lot114" clone="clone114" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat115" lotNum="lot115" clone="clone115" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Orange" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat116" lotNum="lot116" clone="clone116" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat117" lotNum="lot117" clone="clone117" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat118" lotNum="lot118" clone="clone118" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 605" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat119" lotNum="lot119" clone="clone119" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 650" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat120" lotNum="lot120" clone="clone120" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat121" lotNum="lot121" clone="clone121" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat122" lotNum="lot122" clone="clone122" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat123" lotNum="lot123" clone="clone123" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat124" lotNum="lot124" clone="clone124" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat125" lotNum="lot125" clone="clone125" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat126" lotNum="lot126" clone="clone126" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 555" targetName="CD8" targetSpecies="Mouse" company="Biolegend" catalogNum="cat127" lotNum="lot127" clone="clone127" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat128" lotNum="lot128" clone="clone128" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat129" lotNum="lot129" clone="clone129" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat130" lotNum="lot130" clone="clone130" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat131" lotNum="lot131" clone="clone131" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 655" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat132" lotNum="lot132" clone="clone132" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 705" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat133" lotNum="lot133" clone="clone133" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat134" lotNum="lot134" clone="clone134" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV450" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat135" lotNum="lot135" clone="clone135" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat136" lotNum="lot136" clone="clone136" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat137" lotNum="lot137" clone="clone137" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Orange" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat138" lotNum="lot138" clone="clone138" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat139" lotNum="lot139" clone="clone139" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/eFluor 710" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat140" lotNum="lot140" clone="clone140" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Cy5" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat141" lotNum="lot141" clone="clone141" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD24" targetSpecies="Mouse" company="Biolegend" catalogNum="cat142" lotNum="lot142" clone="clone142" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Alexa Fluor 750" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat143" lotNum="lot143" clone="clone143" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Cy7" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat144" lotNum="lot144" clone="clone144" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 350" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat145" lotNum="lot145" clone="clone145" isotype="IgG" aups="50"/>
+            <antibody conjugateName="DAPI" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat146" lotNum="lot146" clone="clone146" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat147" lotNum="lot147" clone="clone147" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat148" lotNum="lot148" clone="clone148" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat149" lotNum="lot149" clone="clone149" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 555" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat150" lotNum="lot150" clone="clone150" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat151" lotNum="lot151" clone="clone151" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat152" lotNum="lot152" clone="clone152" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="FoxP3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat153" lotNum="lot153" clone="clone153" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat154" lotNum="lot154" clone="clone154" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/eFluor 710" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat155" lotNum="lot155" clone="clone155" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Cy5" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat156" lotNum="lot156" clone="clone156" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat157" lotNum="lot157" clone="clone157" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat158" lotNum="lot158" clone="clone158" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat159" lotNum="lot159" clone="clone159" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat160" lotNum="lot160" clone="clone160" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Alexa Fluor 750" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat161" lotNum="lot161" clone="clone161" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Cy7" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat162" lotNum="lot162" clone="clone162" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 350" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat163" lotNum="lot163" clone="clone163" isotype="IgG" aups="50"/>
+            <antibody conjugateName="DAPI" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat164" lotNum="lot164" clone="clone164" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 655" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat165" lotNum="lot165" clone="clone165" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat166" lotNum="lot166" clone="clone166" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat167" lotNum="lot167" clone="clone167" isotype="IgG" aups="50"/>
+            <antibody conjugateName="R-PE" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat168" lotNum="lot168" clone="clone168" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD28" targetSpecies="Mouse" company="Biolegend" catalogNum="cat169" lotNum="lot169" clone="clone169" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat170" lotNum="lot170" clone="clone170" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV450" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat171" lotNum="lot171" clone="clone171" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat172" lotNum="lot172" clone="clone172" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV570" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat173" lotNum="lot173" clone="clone173" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat174" lotNum="lot174" clone="clone174" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat175" lotNum="lot175" clone="clone175" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat176" lotNum="lot176" clone="clone176" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat177" lotNum="lot177" clone="clone177" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat178" lotNum="lot178" clone="clone178" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat179" lotNum="lot179" clone="clone179" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat180" lotNum="lot180" clone="clone180" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat181" lotNum="lot181" clone="clone181" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat182" lotNum="lot182" clone="clone182" isotype="IgG" aups="50"/>
+            <antibody conjugateName="R-PE" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat183" lotNum="lot183" clone="clone183" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/eFluor 710" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat184" lotNum="lot184" clone="clone184" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat185" lotNum="lot185" clone="clone185" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat186" lotNum="lot186" clone="clone186" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat187" lotNum="lot187" clone="clone187" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat188" lotNum="lot188" clone="clone188" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Oregon Green" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat189" lotNum="lot189" clone="clone189" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 532" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat190" lotNum="lot190" clone="clone190" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat191" lotNum="lot191" clone="clone191" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat192" lotNum="lot192" clone="clone192" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Cy5" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat193" lotNum="lot193" clone="clone193" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat194" lotNum="lot194" clone="clone194" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat195" lotNum="lot195" clone="clone195" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Alexa Fluor 750" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat196" lotNum="lot196" clone="clone196" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Cy7" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat197" lotNum="lot197" clone="clone197" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat198" lotNum="lot198" clone="clone198" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE-CF594" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat199" lotNum="lot199" clone="clone199" isotype="IgG" aups="50"/>
+            <antibody conjugateName="DAPI" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat200" lotNum="lot200" clone="clone200" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 655" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat201" lotNum="lot201" clone="clone201" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 650" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat202" lotNum="lot202" clone="clone202" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 705" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat203" lotNum="lot203" clone="clone203" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 555" targetName="CD20" targetSpecies="Mouse" company="Biolegend" catalogNum="cat204" lotNum="lot204" clone="clone204" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat205" lotNum="lot205" clone="clone205" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV570" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat206" lotNum="lot206" clone="clone206" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat207" lotNum="lot207" clone="clone207" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat208" lotNum="lot208" clone="clone208" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat209" lotNum="lot209" clone="clone209" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat210" lotNum="lot210" clone="clone210" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat211" lotNum="lot211" clone="clone211" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat212" lotNum="lot212" clone="clone212" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat213" lotNum="lot213" clone="clone213" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat214" lotNum="lot214" clone="clone214" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat215" lotNum="lot215" clone="clone215" isotype="IgG" aups="50"/>
+            <antibody conjugateName="R-PE" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat216" lotNum="lot216" clone="clone216" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/eFluor 710" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat217" lotNum="lot217" clone="clone217" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD5" targetSpecies="Mouse" company="Biolegend" catalogNum="cat218" lotNum="lot218" clone="clone218" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 605" targetName="CD86" targetSpecies="Mouse" company="Biolegend" catalogNum="cat219" lotNum="lot219" clone="clone219" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 650" targetName="CD86" targetSpecies="Mouse" company="Biolegend" catalogNum="cat220" lotNum="lot220" clone="clone220" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD86" targetSpecies="Mouse" company="Biolegend" catalogNum="cat221" lotNum="lot221" clone="clone221" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD86" targetSpecies="Mouse" company="Biolegend" catalogNum="cat222" lotNum="lot222" clone="clone222" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 655" targetName="CD86" targetSpecies="Mouse" company="Biolegend" catalogNum="cat223" lotNum="lot223" clone="clone223" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 705" targetName="CD86" targetSpecies="Mouse" company="Biolegend" catalogNum="cat223" lotNum="lot2231" clone="clone2231" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat228" lotNum="lot228" clone="clone228" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat229" lotNum="lot229" clone="clone229" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/eFluor 710" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat230" lotNum="lot230" clone="clone230" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Cy5" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat231" lotNum="lot231" clone="clone231" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat232" lotNum="lot232" clone="clone232" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat233" lotNum="lot233" clone="clone233" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat234" lotNum="lot234" clone="clone234" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat235" lotNum="lot235" clone="clone235" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV570" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat236" lotNum="lot236" clone="clone236" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP" targetName="CD31" targetSpecies="Mouse" company="Biolegend" catalogNum="cat237" lotNum="lot237" clone="clone237" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat238" lotNum="lot238" clone="clone238" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat239" lotNum="lot239" clone="clone239" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat240" lotNum="lot240" clone="clone240" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat241" lotNum="lot241" clone="clone241" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat242" lotNum="lot242" clone="clone242" isotype="IgG" aups="50"/>
+            <antibody conjugateName="R-PE" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat243" lotNum="lot243" clone="clone243" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/eFluor 710" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat244" lotNum="lot244" clone="clone244" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat245" lotNum="lot245" clone="clone245" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat246" lotNum="lot246" clone="clone246" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat247" lotNum="lot247" clone="clone247" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat248" lotNum="lot248" clone="clone248" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Oregon Green" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat249" lotNum="lot249" clone="clone249" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 532" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat250" lotNum="lot250" clone="clone250" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat251" lotNum="lot251" clone="clone251" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD138" targetSpecies="Mouse" company="Biolegend" catalogNum="cat252" lotNum="lot252" clone="clone252" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat253" lotNum="lot253" clone="clone253" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat254" lotNum="lot254" clone="clone254" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Oregon Green" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat255" lotNum="lot255" clone="clone255" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 532" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat256" lotNum="lot256" clone="clone256" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat257" lotNum="lot257" clone="clone257" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat258" lotNum="lot258" clone="clone258" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Cy5" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat259" lotNum="lot259" clone="clone259" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat260" lotNum="lot260" clone="clone260" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat261" lotNum="lot261" clone="clone261" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Alexa Fluor 750" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat262" lotNum="lot262" clone="clone262" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-Cy7" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat263" lotNum="lot263" clone="clone263" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat264" lotNum="lot264" clone="clone264" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE-CF594" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat265" lotNum="lot265" clone="clone265" isotype="IgG" aups="50"/>
+            <antibody conjugateName="DAPI" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat266" lotNum="lot266" clone="clone266" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 655" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat267" lotNum="lot267" clone="clone267" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat268" lotNum="lot268" clone="clone268" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 650" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat269" lotNum="lot269" clone="clone269" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Qdot 705" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat270" lotNum="lot270" clone="clone270" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 555" targetName="CD27" targetSpecies="Mouse" company="Biolegend" catalogNum="cat271" lotNum="lot271" clone="clone271" isotype="IgG" aups="50"/>
+        </antibodiesList>
+    </antibodies>
+
+    <!--antibodies name="Jenny 5/15/15">
+        <antibodiesList>
+            <antibody conjugateName="BV421" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat1" lotNum="lot1" clone="clone1" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat2" lotNum="lot2" clone="clone2" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat3" lotNum="lot3" clone="clone3" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV570" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat4" lotNum="lot4" clone="clone4" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat5" lotNum="lot5" clone="clone5" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat6" lotNum="lot6" clone="clone6" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat7" lotNum="lot7" clone="clone7" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV786" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat8" lotNum="lot8" clone="clone8" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat9" lotNum="lot9" clone="clone9" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat10" lotNum="lot10" clone="clone10" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat11" lotNum="lot11" clone="clone11" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat12" lotNum="lot12" clone="clone12" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat13" lotNum="lot13" clone="clone13" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat14" lotNum="lot14" clone="clone14" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat15" lotNum="lot15" clone="clone15" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat16" lotNum="lot16" clone="clone16" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat17" lotNum="lot17" clone="clone17" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat18" lotNum="lot18" clone="clone18" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat19" lotNum="lot19" clone="clone19" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone20" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone21" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV450" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone22" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone23" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Orange" targetName="CD4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat20" lotNum="lot20" clone="clone24" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat21" lotNum="lot21" clone="clone21" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat22" lotNum="lot22" clone="clone22" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat23" lotNum="lot23" clone="clone23" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat24" lotNum="lot24" clone="clone24" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat25" lotNum="lot25" clone="clone25" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat26" lotNum="lot26" clone="clone26" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat27" lotNum="lot27" clone="clone27" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat28" lotNum="lot28" clone="clone28" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP" targetName="CD2" targetSpecies="Mouse" company="Biolegend" catalogNum="cat28" lotNum="lot28" clone="clone28" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat29" lotNum="lot29" clone="clone29" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat30" lotNum="lot30" clone="clone30" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat31" lotNum="lot31" clone="clone31" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat32" lotNum="lot32" clone="clone32" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat33" lotNum="lot33" clone="clone33" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat34" lotNum="lot34" clone="clone34" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat35" lotNum="lot35" clone="clone35" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat36" lotNum="lot36" clone="clone36" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat37" lotNum="lot37" clone="clone37" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat38" lotNum="lot38" clone="clone38" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat39" lotNum="lot39" clone="clone39" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat40" lotNum="lot40" clone="clone40" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat41" lotNum="lot41" clone="clone41" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat42" lotNum="lot42" clone="clone42" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV450" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat42" lotNum="lot43" clone="clone42" isotype="IgG" aups="50"/>
+            <antibody conjugateName="eFluor 450" targetName="CD40" targetSpecies="Mouse" company="Biolegend" catalogNum="cat42" lotNum="lot42" clone="clone42" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD35" targetSpecies="Mouse" company="Biolegend" catalogNum="cat43" lotNum="lot43" clone="clone43" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD35" targetSpecies="Mouse" company="Biolegend" catalogNum="cat44" lotNum="lot44" clone="clone44" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="VEGFR-3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat45" lotNum="lot45" clone="clone45" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="VEGFR-3" targetSpecies="Mouse" company="Biolegend" catalogNum="cat46" lotNum="lot46" clone="clone46" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="E-Cadherin" targetSpecies="Mouse" company="Biolegend" catalogNum="cat47" lotNum="lot47" clone="clone47" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="E-Cadherin" targetSpecies="Mouse" company="Biolegend" catalogNum="cat48" lotNum="lot48" clone="clone48" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="E-Cadherin" targetSpecies="Mouse" company="Biolegend" catalogNum="cat49" lotNum="lot49" clone="clone49" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat50" lotNum="lot50" clone="clone50" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat51" lotNum="lot51" clone="clone51" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat52" lotNum="lot52" clone="clone52" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat53" lotNum="lot53" clone="clone53" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat54" lotNum="lot54" clone="clone54" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat55" lotNum="lot55" clone="clone55" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat56" lotNum="lot56" clone="clone56" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat57" lotNum="lot57" clone="clone57" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat58" lotNum="lot58" clone="clone58" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD117" targetSpecies="Mouse" company="Biolegend" catalogNum="cat58" lotNum="lot58" clone="clone58" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat59" lotNum="lot59" clone="clone59" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Pacific Blue" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat60" lotNum="lot60" clone="clone60" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat61" lotNum="lot61" clone="clone61" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV605" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat62" lotNum="lot62" clone="clone62" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV650" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat63" lotNum="lot63" clone="clone63" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV711" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat64" lotNum="lot64" clone="clone64" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 488" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat65" lotNum="lot65" clone="clone65" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat66" lotNum="lot66" clone="clone66" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat67" lotNum="lot67" clone="clone67" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat68" lotNum="lot68" clone="clone68" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Dazzle 594" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat69" lotNum="lot69" clone="clone69" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat70" lotNum="lot70" clone="clone70" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat71" lotNum="lot71" clone="clone71" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat72" lotNum="lot72" clone="clone72" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat73" lotNum="lot73" clone="clone73" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 700" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat74" lotNum="lot74" clone="clone74" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat75" lotNum="lot75" clone="clone75" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD11c" targetSpecies="Mouse" company="Biolegend" catalogNum="cat75" lotNum="lot75" clone="clone75" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC/Cy7" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat76" lotNum="lot76" clone="clone76" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat77" lotNum="lot77" clone="clone77" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat78" lotNum="lot78" clone="clone78" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat79" lotNum="lot79" clone="clone79" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat80" lotNum="lot80" clone="clone80" isotype="IgG" aups="50"/>
+            <antibody conjugateName="FITC" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat81" lotNum="lot81" clone="clone81" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV510" targetName="CD14" targetSpecies="Mouse" company="Biolegend" catalogNum="cat82" lotNum="lot82" clone="clone82" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CXCR7" targetSpecies="Mouse" company="Biolegend" catalogNum="cat83" lotNum="lot83" clone="clone83" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CXCR7" targetSpecies="Mouse" company="Biolegend" catalogNum="cat84" lotNum="lot84" clone="clone84" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy7" targetName="CXCR7" targetSpecies="Mouse" company="Biolegend" catalogNum="cat85" lotNum="lot85" clone="clone85" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="B7-H4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat86" lotNum="lot86" clone="clone86" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="B7-H4" targetSpecies="Mouse" company="Biolegend" catalogNum="cat87" lotNum="lot87" clone="clone87" isotype="IgG" aups="50"/>
+            <antibody conjugateName="BV421" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat88" lotNum="lot88" clone="clone88" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PerCP/Cy5.5" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat89" lotNum="lot89" clone="clone89" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat90" lotNum="lot90" clone="clone90" isotype="IgG" aups="50"/>
+            <antibody conjugateName="PE/Cy5" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat91" lotNum="lot91" clone="clone91" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat92" lotNum="lot92" clone="clone92" isotype="IgG" aups="50"/>
+            <antibody conjugateName="Alexa Fluor 647" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat93" lotNum="lot93" clone="clone93" isotype="IgG" aups="50"/>
+            <antibody conjugateName="APC-eFluor 780" targetName="CD34" targetSpecies="Mouse" company="Biolegend" catalogNum="cat93" lotNum="lot93" clone="clone93" isotype="IgG" aups="50"/>
+        </antibodiesList>
+    </antibodies-->
+</antibodydatabases>

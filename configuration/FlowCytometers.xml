@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flowCytometers>
+    <flowCytometer name="CantoI">
+        <lasers>
+            <laser name="Blue" wavelength="488">
+                <detectors>
+                    <detector name="780/60" wavelength="780" wavelengthWindow="60"/>
+                    <detector name="670LP" wavelength="670" wavelengthWindow="2147483647"/>
+                    <detector name="585/42" wavelength="585" wavelengthWindow="42"/>
+                    <detector name="530/30" wavelength="530" wavelengthWindow="30"/>
+                    <detector name="488/20" wavelength="488" wavelengthWindow="20"/>
+                </detectors>
+            </laser>
+            <laser name="Red" wavelength="633">
+                <detectors>
+                    <detector name="780/60" wavelength="780" wavelengthWindow="60"/>
+                    <detector name="660/20" wavelength="660" wavelengthWindow="20"/>
+                </detectors>
+            </laser>
+        </lasers>
+    </flowCytometer>
+    <flowCytometer name="CantoII">
+        <lasers>
+            <laser name="Blue" wavelength="488">
+                <detectors>
+                    <detector name="780/60" wavelength="780" wavelengthWindow="60"/>
+                    <detector name="670LP" wavelength="670" wavelengthWindow="2147483647"/>
+                    <detector name="575/26" wavelength="575" wavelengthWindow="26"/>
+                    <detector name="530/30" wavelength="530" wavelengthWindow="30"/>
+                    <detector name="488/20" wavelength="488" wavelengthWindow="20"/>
+                </detectors>
+            </laser>
+            <laser name="Red" wavelength="633">
+                <detectors>
+                    <detector name="780/60" wavelength="780" wavelengthWindow="60"/>
+                    <detector name="660/20" wavelength="660" wavelengthWindow="20"/>
+                </detectors>
+            </laser>
+            <laser name="Violet" wavelength="405">
+                <detectors>     
+                    <detector name="550/40" wavelength="550" wavelengthWindow="40"/>
+                    <detector name="450/50" wavelength="450" wavelengthWindow="50"/>
+                </detectors>
+            </laser>
+        </lasers>
+    </flowCytometer>
+    <flowCytometer name="Fortessa">
+        <lasers>
+            <laser name="Blue" wavelength="488">
+                <detectors>
+                    <detector name="710/50" wavelength="710" wavelengthWindow="50"/>
+                    <detector name="610/20" wavelength="610" wavelengthWindow="20"/>
+                    <detector name="530/30" wavelength="530" wavelengthWindow="30"/>
+                </detectors>
+            </laser>
+            <laser name="Yellow/Green" wavelength="561">
+                <detectors>
+                    <detector name="780/60" wavelength="780" wavelengthWindow="60"/>
+                    <detector name="710/50" wavelength="710" wavelengthWindow="50"/>
+                    <detector name="670/30" wavelength="670" wavelengthWindow="30"/>
+                    <detector name="585/15" wavelength="585" wavelengthWindow="15"/>
+                </detectors>
+            </laser>
+            <laser name="Red" wavelength="640">
+                <detectors>
+                    <detector name="780/60" wavelength="780" wavelengthWindow="60"/>
+                    <detector name="730/45" wavelength="730" wavelengthWindow="45"/>
+                    <detector name="670/30" wavelength="670" wavelengthWindow="30"/>
+                </detectors>
+            </laser>
+            <laser name="Violet" wavelength="405">
+                <detectors>
+                    <detector name="780/60" wavelength="780" wavelengthWindow="60"/>
+                    <detector name="710/50" wavelength="710" wavelengthWindow="50"/>
+                    <detector name="670/30" wavelength="670" wavelengthWindow="30"/>
+                    <detector name="610/20" wavelength="610" wavelengthWindow="20"/>
+                    <detector name="525/50" wavelength="525" wavelengthWindow="50"/>
+                    <detector name="450/50" wavelength="450" wavelengthWindow="50"/>
+                </detectors>  
+            </laser>
+            <laser name="UV" wavelength="355">
+                <detectors>
+                    <detector name="675/50" wavelength="675" wavelengthWindow="50"/>
+                    <detector name="450/50" wavelength="450" wavelengthWindow="50"/>
+                </detectors>  
+            </laser>
+        </lasers>
+    </flowCytometer>
+</flowCytometers>

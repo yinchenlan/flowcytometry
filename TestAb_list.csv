@@ -1,0 +1,81 @@
+conjugate,target,target species,company,cat #,lot #,clone,isotype,amount used per sample (ul)
+BV650,CD45,human,BD Biosciences,563717,3283503,HI30,mIgG1k,1
+PE/Cy5,CD45RA,human,Biolegend,304110,B175759,HI100,"Mouse IgG2b, ? ",0.5
+PE/Cy7,FOXP3,human,eBioscience,25-4777-42,E17739-101,236A/E7 ,"Mouse IgG1, ? ",6
+BV711,KI67,human,BD Biosciences,563755,3311820,B56,"Mouse IgG1, ? ",1
+BV510,CD8,human,BD Biosciences,563919,3343726,SK1,"Mouse IgG1, ? ",1
+AF700,HLADR,human,BD Biosciences,560743,3193997,G46-6,"Ms IgG2a, ?",1.5
+BV786,CD3,human,BD Biosciences,563964,4014668,HIT2,"Mouse IgG1, ? ",3
+Percp/Cy5.5,CD38,human,Biolegend,300430,B171145,UCHT1,"Mouse IgG1, ? ",2.5
+PE-CF594,CD56,human,BD Biosciences,562289,3032756,B159,"Mouse IgG1, ? ",4
+BV605,CD4,human,Biolegend,317438,B176892,OKT4,"Mouse IgG2b, ? ",3
+BV510,CD4,human,BD Biosciences,562970,3298668,SK3,mIgG1k,3
+AF700,CD25,human,Biolegend,302622,B151230,BC96,"Mouse IgG1, ? ",0.5
+BV786,CD3,human,BD Biosciences,563200,3311857,SK1,"Rat IgG2a, ?",1
+PerCP/Cy5.5 ,Helios,human,Biolegend,137230,B171341,22F6,Armenian Hamster IgG ,5
+PE-CF594,CD39,human,BD Biosciences,563678,3275569,TU66,"Ms IgG2b, ?",1
+BV605,IFNg,human,BD Biosciences,562974,3331687,B27,mIgG1k,5
+BV421,GARP,human,Biolegend,352509,B170659,7B11,"Mouse IgG2b, ? ",6
+APC,TIGIT,human,eBioscience,17-9500-42,E17329-101,MBSA43 ,"Mouse IgG1, ? ",5
+PE,LAP,human,Biolegend,349604,B147801,TW4-2F8,mIgG1k,20
+PE/Cy5,CD3,human,Biolegend,300410,B169543,UCHT1,mIgG1k,0.2
+PE/Cy7,CD163 ,human,Biolegend,333614,B174991,GHI/61,mIgG1k,3
+BV711,CD33,human,BD Biosciences,563171,3305900,WM53,mIgG1k,3
+BV510,CD11b,human,Biolegend,301334,B168810,ICRF44,mIgG1k,3
+BV785,HLA-DR,human,Biolegend,307641,B175582, L243,"Mouse IgG2a, ?",0.2
+PerCP/Cy5.5 ,CD68,human,Biolegend,333814,B167103,Y1/82A,"Mouse IgG2b, ? ",3
+PE-CF594,CD14,human,BD Biosciences,562335,3324852,MÌP9,"Ms IgG2b, ?",1
+BV605,CD19,human,BD Biosciences,562653,3319758,SJ25C1,mIgG1k,5
+BV421,CD1c,human,Biolegend,331526,B173013,L161,mIgG1k,4
+APC,OX40,human,R&D,FAB3388A ,,443318,Rat IgG2A ,5
+PE,GITR,human,R&D,FAB689P,LAV058051,110416,mIgG1,20
+BV421,ICOS,human,Biolegend,313524,B173635,C398.4A,Armenian Hamster IgG ,5
+FITC,NKG2D,human,Biolegend,320820,B176849,1D11,mIgG1,5
+BV421,CD73,human,BD Biosciences,562430,2223529,AD2,mIgG1k,5
+APC,TNFR2,human,Biolegend,358406,B171916,3G7A02,"Rat IgG2a, ?",5
+PE,CSF2RB,human,Biolegend,306104,B171708,1C1,mIgG1k,5
+AF488,CCR6,human,Biolegend,353414,B148955,G034E3,"Mouse IgG2b, ?",5
+BV421,PD1,human,BD Biosciences,562516,3319771,EH12.1,mIgG1k,5
+PE,KIR,human,BMS,BMS 986015-01,BMS 986015-01,,,3
+FITC,LAG3 (1.5mg/ml),,BMS,BMS.986016-FITC,BMS.986016-FITC,LAG3.5-FITC ,hIgG4,3
+APC,NKG2A,human,Beckman Coulter,A60797,,Z199,Mouse IgG2b,2.5
+BV421,41BB,human,Biolegend,309819,B167238,4B4-1,"Mouse IgG1, ?",5
+AF647,LAIR1,human,Biolegend,342802,B167683,NKTA255,Mouse IgG1 ,5
+FITC,CD27,human,Biolegend,356404,B167612,M-T271,Mouse IgG1 ,5
+PE,CEACAM1,human,BMS,3951.16H1.E6,U20130716.HH.09149,16H1,mouse,2
+eFluor 450,TIM3,human,eBioscience,48-3109-42,E15802-101,F38-2E2,mIgG1k,5
+PE,CS1,human,Biolegend,331806,B164440,162.1,"Mouse IgG2b, ? ",5
+AF488,CCR5,human,,313710,B129407,HEK/1/85a,"Rat IgG2a, ? ",5
+APC ,BTLA,human,Biolegend,344510,B147074,MIH26,"Mouse IgG2a, ? ",20
+BV421,CTLA4,human,BD Pharmingen,562743,3305893,BNI3,"Ms IgG2a, ?",5
+APC ,CRTAM,human,Biolegend,339108,B163632,Cr24.1,"Mouse IgG2a, ?",5
+AF488,IL-10,human,eBiosciences,53-7108-42,E10900-1631,JES3-9D7 ,"Rat IgG1,k",5
+PE,TLT2,human,Biolegend,351204,B141156,MIH60,"Mouse IgG2b, ? ",20
+Alexa Fluor 700,GITRL,human,R&D,FAB6941N,ADPZ0113051,109101,Mouse IgG1 ,5
+PE,PVR,human,Biolegend,337610,B175125,SKII.4,mIgG1k,5
+APC ,OX40L,human,R&D,FAB10541A,ABLJ0213071,159403,mIgG1k,10
+Alexa Fluor 488,MICA/MICB,human,Biolegend,320912,B171661,6D4,"Mouse IgG2a, ? ",5
+Alexa Fluor 700,PDL1,human,R&D,FAB1561N,ADFM0113071,130021,Mouse IgG1 ,5
+PE,HLAE,human,Biolegend,342604,B162987,3D12,"Mouse IgG1, ?",5
+APC ,ICOSL,human,R&D,FAB165A,AALD0113031,136726,Mouse IgG2b ,10
+FITC ,B7-H3,human,R&D,FAB1027F,AAPR0112111,185504,Mouse IgG1 ,10
+Alexa Fluor 700,CD40,human,BD Biosciences,561208,2326697,5C3,"Mouse IgG1, ?",5
+PE,HVEM,human,Biolegend,318806,B163967,122,"Mouse IgG1, ?",5
+Alexa Fluor 488,CD86,human,Biolegend,305414,B144803,IT2.2,"Mouse IgG2b, ? ",5
+biotin,VISTA (0.61mg/ml),q,R&D,MAB71261,CGAO011209,730804,"Mouse IgG2b, ? ",0.0016ul (10ug/ml)
+AF700,CD16,human,BD Biosciences,560713,3301872,3G8,"Mouse IgG1, ?",5
+PE,c-kit,human,Biolegend,313204,B169876,104D2 ,"Mouse IgG1, ?",5
+APC ,FcÓRI,human,Biolegend,334612,B175310,AER-37 ,"Mouse IgG2b, ? ",5
+FITC,FcÓRII,human,Biolegend,338506,B163667,EBVCS-5,mIgG1k,20
+APC ,ILT3,human,eBioscience,17-5139-42,E11858-1632,ZM4.1,mIgG1,5
+PE,41BBL,human,Biolegend,311504,B177361,5F4,"Mouse IgG1, ?",5
+Alexa Fluor 700,CD200,human,R&D,FAB27241N,ADEZ0112101,325516,Mouse IgG1 ,5
+AF488,PDL2,human,R&D,FAB1224G,ADXE0113111,176611,Mouse IgG2b ,5
+Alexa Fluor 700,CD80,human,BD Biosciences,561133,3046894,L307.4,"Mouse IgG1, ?",5
+FITC,C1qR1,human,BD Biosciences,551531,2110974,CDw93,"Mouse IgG2b, ? ",5
+APC ,CD70,human,Biolegend,355110,B173297,113-16,Mouse IgG1 ,5
+PE,Fc‡R,human,Biolegend,354104,B163857,A59,"Mouse IgG1, ?",5
+Alexa Fluor 700,CD64,human,BD Biosciences,561188,3303842,10.1,"Mouse IgG1, ?",5
+FITC,CD32a,human,Stemcell Technologies,10433,12G45098,IV.3,Mouse IgG2b ,20
+PE,Fc‡/ÊR,human,Biolegend,137306,B166475,TX61,"Mouse IgG1, ?",5
+biotin,CD32b,human,BMS,1613.2243.5G8.F5,1613.2243.5G8.F5,5G8,,0.034 (0.4ug/ml)

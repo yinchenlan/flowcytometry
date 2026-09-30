@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--conjugates>
+    <conjugate name="Alexa Fluor 488" brightness="6" maxEmissionWl="519" maxExcitationWl="490"/>
+    <conjugate name="Alexa Fluor 647" brightness="10" maxEmissionWl="668" maxExcitationWl="650"/>
+    <conjugate name="APC" brightness="10" maxEmissionWl="660" maxExcitationWl="650"/>
+    <conjugate name="APC-Alexa Fluor 750" brightness="4" maxEmissionWl="775" maxExcitationWl="650"/>
+    <conjugate name="APC-eFluor 780" brightness="4" maxEmissionWl="780" maxExcitationWl="633"/>
+    <conjugate name="FITC" brightness="5" maxEmissionWl="525" maxExcitationWl="490"/>
+    <conjugate name="Oregon Green" brightness="9" maxEmissionWl="526" maxExcitationWl="501"/>
+    <conjugate name="PE" brightness="10" maxEmissionWl="575" maxExcitationWl="496"/>
+    <conjugate name="PerCP" brightness="8" maxEmissionWl="678" maxExcitationWl="482"/>
+    <conjugate name="R-PE" brightness="10" maxEmissionWl="578" maxExcitationWl="488"/>
+    <conjugate name="Cy5" brightness="5" maxEmissionWl="670" maxExcitationWl="649"/>
+    <conjugate name="APC/Cy7" brightness="10" maxEmissionWl="785" maxExcitationWl="650"/>
+    <conjugate name="Alexa Fluor 350" brightness="2" maxEmissionWl="442" maxExcitationWl="346"/>
+    <conjugate name="Alexa Fluor 405" brightness="5" maxEmissionWl="421" maxExcitationWl="401"/>
+    <conjugate name="Alexa Fluor 532" brightness="5" maxEmissionWl="561" maxExcitationWl="532"/>
+    <conjugate name="BV421" brightness="8" maxEmissionWl="426" maxExcitationWl="407"/>
+    <conjugate name="Pacific Blue" brightness="6" maxEmissionWl="452" maxExcitationWl="401"/>
+    <conjugate name="BV510" brightness="4" maxEmissionWl="510" maxExcitationWl="405"/>
+    <conjugate name="BV570" brightness="5" maxEmissionWl="570" maxExcitationWl="405"/>
+    <conjugate name="BV605" brightness="4" maxEmissionWl="602" maxExcitationWl="407"/>
+    <conjugate name="BV650" brightness="7" maxEmissionWl="650" maxExcitationWl="406"/>
+    <conjugate name="BV711" brightness="7" maxEmissionWl="711" maxExcitationWl="407"/>
+    <conjugate name="BV786" brightness="8" maxEmissionWl="786" maxExcitationWl="407"/>
+    <conjugate name="PerCP/Cy5.5" brightness="5" maxEmissionWl="695" maxExcitationWl="482"/>
+    <conjugate name="PE/Dazzle 594" brightness="9" maxEmissionWl="610" maxExcitationWl="565"/>
+    <conjugate name="PE/Cy5" brightness="9" maxEmissionWl="667" maxExcitationWl="496"/>
+    <conjugate name="PE/Cy7" brightness="8" maxEmissionWl="785" maxExcitationWl="496"/>
+    <conjugate name="Alexa Fluor 647" brightness="10" maxEmissionWl="668" maxExcitationWl="650"/>
+    <conjugate name="Alexa Fluor 700" brightness="9" maxEmissionWl="719" maxExcitationWl="696"/>
+    <conjugate name="BV450" brightness="6" maxEmissionWl="448" maxExcitationWl="404"/>
+    <conjugate name="eFluor 450" brightness="3" maxEmissionWl="450" maxExcitationWl="405"/>
+    <conjugate name="Pacific Orange" brightness="2" maxEmissionWl="551" maxExcitationWl="400"/>
+</conjugates-->
+
+<conjugates>
+    <conjugate name="Alexa Fluor 488" brightness="6" maxEmissionWl="519" maxExcitationWl="490"/>
+    <conjugate name="Alexa Fluor 647" brightness="10" maxEmissionWl="668" maxExcitationWl="650"/>
+    <conjugate name="Alexa Fluor 350" brightness="2" maxEmissionWl="442" maxExcitationWl="346"/>
+    <conjugate name="Alexa Fluor 405" brightness="5" maxEmissionWl="421" maxExcitationWl="401"/>
+    <conjugate name="Alexa Fluor 532" brightness="5" maxEmissionWl="561" maxExcitationWl="532"/>
+    <conjugate name="Alexa Fluor 555" brightness="5" maxEmissionWl="580" maxExcitationWl="555"/>
+    <conjugate name="Alexa Fluor 700" brightness="2" maxEmissionWl="719" maxExcitationWl="675"/>
+    <conjugate name="APC" brightness="10" maxEmissionWl="660" maxExcitationWl="650"/>
+    <conjugate name="APC-eFluor 780" brightness="4" maxEmissionWl="780" maxExcitationWl="633"/>
+    <conjugate name="APC-Alexa Fluor 750" brightness="4" maxEmissionWl="775" maxExcitationWl="650"/>
+    <conjugate name="APC/Cy7" brightness="10" maxEmissionWl="785" maxExcitationWl="650"/>
+    <conjugate name="BV421" brightness="8" maxEmissionWl="426" maxExcitationWl="407"/>
+    <conjugate name="BV510" brightness="4" maxEmissionWl="510" maxExcitationWl="405"/>
+    <conjugate name="BV570" brightness="5" maxEmissionWl="570" maxExcitationWl="405"/>
+    <conjugate name="BV605" brightness="4" maxEmissionWl="602" maxExcitationWl="407"/>
+    <conjugate name="BV650" brightness="7" maxEmissionWl="655" maxExcitationWl="406"/>
+    <conjugate name="BV711" brightness="7" maxEmissionWl="711" maxExcitationWl="407"/>
+    <conjugate name="BV786" brightness="8" maxEmissionWl="786" maxExcitationWl="407"/>
+    <conjugate name="BV450" brightness="6" maxEmissionWl="448" maxExcitationWl="404"/>
+    <conjugate name="Cy5" brightness="5" maxEmissionWl="670" maxExcitationWl="649"/>
+    <conjugate name="DAPI" brightness="8" maxEmissionWl="470" maxExcitationWl="350"/>
+    <conjugate name="eFluor 450" brightness="3" maxEmissionWl="450" maxExcitationWl="405"/>
+    <conjugate name="eFluor 605" brightness="3" maxEmissionWl="605" maxExcitationWl="405"/>
+    <conjugate name="eFluor 650" brightness="5" maxEmissionWl="655" maxExcitationWl="405"/>
+    <conjugate name="FITC" brightness="5" maxEmissionWl="525" maxExcitationWl="490"/>
+    <conjugate name="Oregon Green" brightness="9" maxEmissionWl="526" maxExcitationWl="501"/>
+    <conjugate name="Pacific Blue" brightness="6" maxEmissionWl="452" maxExcitationWl="401"/>
+    <conjugate name="Pacific Orange" brightness="2" maxEmissionWl="550" maxExcitationWl="400"/>
+    <conjugate name="PE" brightness="10" maxEmissionWl="580" maxExcitationWl="561"/>   
+    <conjugate name="PE-CF594" brightness="1" maxEmissionWl="612" maxExcitationWl="496"/>
+    <conjugate name="PE/Cy5" brightness="9" maxEmissionWl="667" maxExcitationWl="496"/>
+    <conjugate name="PE/Cy7" brightness="8" maxEmissionWl="785" maxExcitationWl="561"/>
+    <conjugate name="PE/Dazzle 594" brightness="9" maxEmissionWl="610" maxExcitationWl="488"/>
+    <conjugate name="PerCP" brightness="8" maxEmissionWl="678" maxExcitationWl="482"/>
+    <conjugate name="PerCP/Cy5.5" brightness="5" maxEmissionWl="695" maxExcitationWl="561"/>
+    <conjugate name="PerCP/eFluor 710" brightness="5" maxEmissionWl="710" maxExcitationWl="488"/>
+    <conjugate name="Qdot 655" brightness="10" maxEmissionWl="655" maxExcitationWl="355"/>
+    <conjugate name="Qdot 705" brightness="10" maxEmissionWl="700" maxExcitationWl="355"/>
+    <conjugate name="R-PE" brightness="10" maxEmissionWl="578" maxExcitationWl="488"/>
+</conjugates>
